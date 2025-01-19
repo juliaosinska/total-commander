@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipcmagtJvUAfH7VBakTrUfo2xPaN7o06Y3GFW6mJGpjxkNKjyf6avsSP1qbxjryH/VGhIr5Co9zt6cZPHNYLJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julka\\OneDrive\\Pulpit\\TotalCommander\\TotalCommander\\TotalCommander\\TotalCommander.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julka\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\julka\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
